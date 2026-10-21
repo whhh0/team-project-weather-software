@@ -1,1 +1,25 @@
-Pythonn __pycache__/
+ Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+ Артефакты сборки
+build/
+dist/
+*.exe
+*.o
+
+ IDE
+.vscode/
+.idea/
+*.swp
+
+ Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+ Секреты
+.env
+
